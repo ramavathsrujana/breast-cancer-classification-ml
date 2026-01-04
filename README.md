@@ -34,7 +34,15 @@ This project uses **Machine Learning techniques**, specifically **Support Vector
 ## 📊 Results
 - SVM Accuracy: ~98.6%  
 - Random Forest Accuracy: ~96.5%  
-- SVM performed slightly better in classification accuracy  
+
+ ### Accuracy Comparison of Models
+![Accuracy Comparison](results/accuracy_comparison.png)
+
+### Confusion Matrix – SVM Model
+![SVM Confusion Matrix](results/svm_confusion_matrix.png)
+
+### Confusion Matrix – Random Forest Model
+![Random Forest Confusion Matrix](results/rf_confusion_matrix.png)
 
 ---
 
